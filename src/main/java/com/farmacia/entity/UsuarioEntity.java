@@ -5,6 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+//ENTIDAD DE LOS USUARIOS DE LA FARMACEUTICA
 @Entity
 @Table(name = "tbl_usuario")
 @Data
