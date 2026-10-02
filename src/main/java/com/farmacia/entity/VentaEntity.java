@@ -8,6 +8,7 @@ import org.hibernate.annotations.CreationTimestamp;
 
 import java.time.LocalDate;
 
+//ENTIDAD DE LA VENTA DE LOS MAYHUA
 @Entity
 @Table(name = "tbl_venta")
 @Data
